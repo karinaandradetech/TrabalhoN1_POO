@@ -6,7 +6,7 @@ public class Linha : Forma
     public int Y1;
     public int X2;
     public int Y2;
-    public string Cor;
+    public string Cor = "";
     public int Largura;
 
     public Linha() { }

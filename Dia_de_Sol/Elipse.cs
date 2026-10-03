@@ -6,7 +6,7 @@ public class Elipse : Forma
     public int Y;
     public int RaioX;
     public int RaioY;
-    public string Cor;
+    public string Cor = "";
 
     public Elipse() { }
 

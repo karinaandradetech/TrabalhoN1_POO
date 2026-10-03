@@ -4,7 +4,7 @@ using System.Collections.Generic;
 public class Poligono : Forma
 {
     public List<int> Pontos = new List<int>();
-    public string Cor;
+    public string Cor = "";
 
     public Poligono() { }
 
